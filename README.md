@@ -1,21 +1,20 @@
-<h1 align="center">Hello everyone👋 Abdelwahed souilah</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+Hello everyone👋 
+𝙄 𝙖𝙢 𝙖 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙗𝙖𝙨𝙚𝙙 𝙞𝙣 𝙨𝙤𝙪𝙩𝙝 𝙤𝙛 𝙁𝙧𝙖𝙣𝙘𝙚. 𝙄'𝙢 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜, 𝙧𝙤𝙗𝙤𝙩𝙞𝙘𝙨, 𝙖𝙣𝙙 𝙚𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 𝙞𝙣-𝙗𝙚𝙩𝙬𝙚𝙚. 𝙄 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙖𝙣𝙙 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚 𝙞𝙣 𝙖𝙣𝙮 𝙖𝙣𝙙 𝙚𝙫𝙚𝙧𝙮 𝙥𝙤𝙨𝙨𝙞𝙗𝙡𝙚 𝙬𝙖𝙮.
+𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poste-fait617&label=Profile%20views&color=0e75b6&style=flat" alt="poste-fait617" /> </p>
+𝙄𝙣 𝙢𝙮 𝙛𝙧𝙚𝙚 𝙩𝙞𝙢𝙚, 𝙄 𝙡𝙞𝙠𝙚 𝙩𝙤:
+* 𝙀𝙭𝙥𝙡𝙤𝙧𝙚 𝙣𝙚𝙬 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨.
+* 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚 𝙩𝙤 𝙤𝙥𝙚𝙣-𝙨𝙤𝙪𝙧𝙘𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨.
+* 𝙋𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙩𝙚 𝙞𝙣 𝙘𝙤𝙙𝙞𝙣𝙜 𝙘𝙝𝙖𝙡𝙡𝙚𝙣𝙜𝙚𝙨 𝙖𝙣𝙙 𝙝𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣𝙨.
+* 𝙎𝙝𝙖𝙧𝙚 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙬𝙞𝙩𝙝 𝙤𝙩𝙝𝙚𝙧𝙨 𝙗𝙮 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙖𝙧𝙩𝙞𝙘𝙡𝙚𝙨 𝙖𝙣𝙙 𝙩𝙪𝙩𝙤𝙧𝙞𝙖𝙡𝙨.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+𝘼𝙡𝙡 𝙎𝙤𝙘𝙞𝙖𝙡𝙨
+<!-- Discord icon -->
+<a href="https://discord.com/invite/339NabEjnk" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord" width="50" height="50">
+</a>
+<!-- Instagram icon -->
+<a href="https://www.instagram.com/postefait617/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50">
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/postefait617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="postefait617" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/n35jEFT2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/n35jEFT2" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poste-fait617&show_icons=true&locale=en&layout=compact" alt="poste-fait617" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poste-fait617&show_icons=true&locale=en" alt="poste-fait617" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poste-fait617&" alt="poste-fait617" /></p>
